@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "apigateway_description": "API for Alexa Skill using Zappa",
+        "app_function": "alexa_skill.app",
+        "aws_region": "us-east-1",
+        "project_name": "my-alexa-skill",
+        "runtime": "python2.7", 
+        "s3_bucket": "zappa-my-alexa-skill",
+        "exclude": ["*.gz", "*.rar", ".tox",
+                    ".cache", "build", "htmlcov",
+                    "tests", "env", "egg-info" ],
+        "timeout_seconds": 60,
+        "aws_environment_variables": {
+            "author_name": "",
+            "author_email": "",
+            "reddit_username": "",
+            "reddit_password": "",
+            "reddit_url": "https://www.reddit.com/r/worldnews.json?limit=10&restrict_sr=on"
+        }
+    }
+}

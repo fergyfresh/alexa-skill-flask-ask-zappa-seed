@@ -1,0 +1,21 @@
+NewsIntent what is the news
+NewsIntent whats the news
+NewsIntent what is the latest news
+NewsIntent whats the latest news
+NewsIntent give me the latest news
+NewsIntent give me a news
+NewsIntent tell me the news
+NewsIntent tell me the latest news
+NewsIntent is there any latest news
+
+YesIntent yes
+YesIntent sure
+YesIntent yaa
+YesIntent ok
+YesIntent ok sure
+
+NoIntent no
+NoIntent naa
+NoIntent nope
+NoIntent go away
+NoIntent not now

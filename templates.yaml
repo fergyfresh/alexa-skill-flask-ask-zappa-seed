@@ -1,0 +1,21 @@
+welcome: welcome!
+
+welcome_re: How may I help you?
+
+welcome_card: This is an Alexa skill.
+
+stop_bye: Goodbye!
+
+cancel_bye: OK, goodbye!
+
+help_text: This is an Alexa skill that does things. You can ask about news etc. Try now!
+
+card_title: My Alexa Skill
+
+news: Latest news... {{ news }}... Would you like to hear more news?
+
+no_news: It seems there are no news! Try later
+
+error_prompt: I am sorry, something went wrong. Please try again!
+
+bye: OK sure... bye
